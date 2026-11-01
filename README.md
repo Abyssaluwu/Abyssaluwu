@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Abyssaluwu
+- 👋 Hi, I’m @AbyKaku
 - 👀 I’m interested in video games and simple apps
-- 🌱 I’m currently learning C#, Phyton and C++
+- 🌱 I’m currently learning C#, Phyton, C++, html, css and javascript
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me Discord: abyssal_aarin
-- 😄 Pronouns: any
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i speak spanish!
 
 <!---
